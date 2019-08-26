@@ -11,31 +11,33 @@ This page stores descrption and details of below projects I have completed:
 
 2. Finding Latent variables from historic US and world wild fire occurance by using machine learning algorithms.
 
-3. Starbucks mobile application: the first part is about following JAVA design pattern and building an application that runs from terminal. The second part is a full-fledged mobile application with API and MySQL database integration.
+3. Starbucks web application: the first part is about following JAVA design pattern and building an application that runs from terminal. The second part is a full-fledged mobile application with API and MySQL database integration.
 
 4. Facial Expression Recognition and Emotional Factor Analysis for ESL students’ e-learning by Using Deep Learning Technology. (This project/research paper is co-authoured with SJSU faculty and submitted to IEEE conference.)
 
 ```markdown
 Project #1: Alternus Veras
 
-# Google Colab Link:
+Google Colab Link:
 https://colab.research.google.com/drive/1AUrMlaBXfzp1Judlh_9KIcN7hDBOzVpU
 
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+- Implemented KNN clustering, sentiment analysis, LDA topic modeling, Genism, Bag of words, TF-IDF, cosine similarity,Logistic regression, random forrest, multinominal NB, linear SVM.
+- Datasets: Liar Liar & multiple media keywords sites. 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```markdown
+Project #2: Starbucks web application: a Java project 
+
+Github code link for the full-fludged application:
+https://github.com/Laural1/Starbucks_group_project
+
+Multiple Java design patter is followed:
+1. Prototype
+2. Builder
+3. Singleton
+
+```
+
 
 
 
