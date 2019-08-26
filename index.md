@@ -3,10 +3,9 @@
 
 
 
-### Markdown
+### Projects Summary
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+This page stores descrption and details of below projects I have completed 
 
 1. Alternus Veras Project: using natual language processing technologies to distinguish fake news from real news.
 
