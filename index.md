@@ -31,7 +31,7 @@ Project #2: Starbucks web application: a Java project
 Github code link for the full-fludged application:
 https://github.com/Laural1/Starbucks_group_project
 
-Multiple Java design patter is followed:
+Multiple Java design patterns are followed:
 1. Prototype
 2. Builder
 3. Singleton
