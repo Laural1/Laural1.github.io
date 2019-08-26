@@ -38,8 +38,7 @@ Multiple Java design patterns are followed:
 
 ```
 
-Kaggle account: 
-[https://www.kaggle.com/liuying02000]
+[Kaggle account](https://www.kaggle.com/liuying02000)
 
 
 
