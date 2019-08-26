@@ -1,13 +1,13 @@
 ## Welcome to Laura Liu's GitHub Page. 
 
 
-# Alternus Veras Project: using natual language processing technologies to distinguish fake news from real news.
+## Alternus Veras Project: using natual language processing technologies to distinguish fake news from real news.
 
-# Finding Latent variables from historic US and world wild fire occurance by using machine learning algorithms.
+## Finding Latent variables from historic US and world wild fire occurance by using machine learning algorithms.
 
-# Starbucks mobile application: the first part is following JAVA design pattern and build an application run from terminal. the second part is a full-fledged mobile application with API and MySQL database integration.
+## Starbucks mobile application: the first part is following JAVA design pattern and build an application run from terminal. the second part is a full-fledged mobile application with API and MySQL database integration.
 
-# Facial Expression Recognition and Emotional Factor Analysis for ESL students’ e-learning by Using Deep Learning Technology
+## Facial Expression Recognition and Emotional Factor Analysis for ESL students’ e-learning by Using Deep Learning Technology
 
 
 ### Markdown
