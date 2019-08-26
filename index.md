@@ -5,15 +5,15 @@
 
 ### Projects Summary
 
-This page stores descrption and details of below projects I have completed 
+This page stores descrption and details of below projects I have completed: 
 
-1. Alternus Veras Project: using natual language processing technologies to distinguish fake news from real news.
+1. Alternus Veras Project: use natual language processing technologies to distinguish fake news from real news.
 
 2. Finding Latent variables from historic US and world wild fire occurance by using machine learning algorithms.
 
-3. Starbucks mobile application: the first part is following JAVA design pattern and build an application run from terminal. the second part is a full-fledged mobile application with API and MySQL database integration.
+3. Starbucks mobile application: the first part is about following JAVA design pattern and building an application that runs from terminal. The second part is a full-fledged mobile application with API and MySQL database integration.
 
-4. Facial Expression Recognition and Emotional Factor Analysis for ESL students’ e-learning by Using Deep Learning Technology
+4. Facial Expression Recognition and Emotional Factor Analysis for ESL students’ e-learning by Using Deep Learning Technology (This project/research paper is co-authoured with SJSU faculty and submitted to IEEE conference.)
 
 ```markdown
 Syntax highlighted code block
