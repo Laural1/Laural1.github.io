@@ -37,7 +37,7 @@ Multiple Java design patterns are followed:
 3. Singleton
 
 ```
-
+[Google Colab Link] (https://colab.research.google.com/drive/1AUrMlaBXfzp1Judlh_9KIcN7hDBOzVpU)
 [Kaggle account](https://www.kaggle.com/liuying02000)
 
 
