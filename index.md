@@ -38,4 +38,4 @@ Multiple Java design patterns are followed:
 
 [Google Colab Link](colab.research.google.com/drive/1AUrMlaBXfzp1Judlh_9KIcN7hDBOzVpU) for Alternus Veras python3 project
 
-[Github code link](https://github.com/Laural1/Starbucks_group_project) for the full-fludged Starbucks web application
+[Github Link](https://github.com/Laural1/Starbucks_group_project) for the full-fludged Starbucks web application
