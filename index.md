@@ -16,9 +16,11 @@ This page stores descrption and details of below projects I have completed:
 4. Facial Expression Recognition and Emotional Factor Analysis for ESL students’ e-learning by Using Deep Learning Technology (This project/research paper is co-authoured with SJSU faculty and submitted to IEEE conference.)
 
 ```markdown
-Syntax highlighted code block
+Project #1: Alternus Veras
 
-# Header 1
+# Google Colab Link:
+https://colab.research.google.com/drive/1AUrMlaBXfzp1Judlh_9KIcN7hDBOzVpU
+
 ## Header 2
 ### Header 3
 
@@ -35,10 +37,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Laural1/Laural1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
