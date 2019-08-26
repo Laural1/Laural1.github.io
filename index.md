@@ -19,7 +19,8 @@ This page stores descrption and details of below projects I have completed:
 Project #1: Alternus Veras
 
 Google Colab Link:
-[https://colab.research.google.com/drive/1AUrMlaBXfzp1Judlh_9KIcN7hDBOzVpU]
+[Google Colab Link](https://colab.research.google.com/drive/1AUrMlaBXfzp1Judlh_9KIcN7hDBOzVpU)
+
 
 - Implemented KNN clustering, sentiment analysis, LDA topic modeling, Genism, Bag of words, TF-IDF, cosine similarity,Logistic regression, random forrest, multinominal NB, linear SVM.
 - Datasets: Liar Liar & multiple media keywords sites. 
@@ -28,8 +29,7 @@ Google Colab Link:
 ```markdown
 Project #2: Starbucks web application: a Java project 
 
-Github code link for the full-fludged application:
-[https://github.com/Laural1/Starbucks_group_project]
+[Github code link](https://github.com/Laural1/Starbucks_group_project) for the full-fludged application:
 
 Multiple Java design patterns are followed:
 1. Prototype
